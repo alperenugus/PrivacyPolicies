@@ -1,0 +1,28 @@
+Privacy Policy for Keyfiyet
+
+Effective Date: [September 19, 2025]
+
+This Privacy Policy describes how SalatTimeAndQibla ("the App") operates with respect to user data. Your privacy is of paramount importance to us.
+
+1. No Collection of Personal Data
+Keyfiyet is designed with your privacy as its utmost priority. We want to be absolutely clear: Keyfiyet does not collect, store, transmit, or share any personal data or any other information from its users.
+
+This means:
+*   We do not ask for your name, email address, location, or any other identifying information.
+*   We do not track your usage patterns within the app.
+*   We do not use analytics tools that collect personal data.
+*   We do not access your device's contacts, photos, microphone, camera, or any other sensitive data.
+*   There are no user accounts, and no data is stored on our servers.
+
+2. No Third-Party Access
+Since Keyfiyet does not collect any data, there is no data for us to share with third parties. We do not integrate with any third-party services (e.g., analytics providers, advertising networks) that would collect data from you.
+
+3. Children's Privacy
+Keyfiyet does not collect any personal data from anyone, including children. As such, the app is safe for users of all ages from a data privacy perspective.
+
+4. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+5. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+https://www.linkedin.com/in/alperenugus/
