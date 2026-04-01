@@ -1,0 +1,28 @@
+MasalAmca için Gizlilik Politikası
+Yürürlük Tarihi: [1 Nisan 2026]
+
+Bu Gizlilik Politikası, MasalAmca’nın ("Uygulama") kullanıcı verileriyle ilgili olarak nasıl çalıştığını açıklar. Gizliliğiniz bizim için en önemli önceliktir.
+
+1. Kişisel Veri Toplanmaması
+MasalAmca, gizliliğiniz en üst düzeyde öncelik olacak şekilde tasarlanmıştır. Tamamen açık olmak isteriz: MasalAmca, kullanıcılarına ait herhangi bir kişisel veriyi veya başka herhangi bir bilgiyi toplamaz, saklamaz, iletmez veya paylaşmaz.
+
+Bu şu anlama gelir:
+
+Adınızı, e-posta adresinizi, konumunuzu veya kimliğinizi belirleyebilecek başka herhangi bir bilgiyi istemeyiz.
+Uygulama içindeki kullanım alışkanlıklarınızı takip etmeyiz.
+Kişisel veri toplayan analiz (analytics) araçları kullanmayız.
+Cihazınızın kişiler, fotoğraflar, mikrofon, kamera veya diğer hassas verilerine erişmeyiz.
+Kullanıcı hesabı yoktur ve sunucularımızda hiçbir veri saklanmaz.
+
+2. Üçüncü Taraf Erişimi Olmaması
+MasalAmca hiçbir veri toplamadığı için, üçüncü taraflarla paylaşabileceğimiz herhangi bir veri de yoktur. Sizden veri toplayacak üçüncü taraf hizmetlerle (ör. analiz sağlayıcıları, reklam ağları) entegre olmayız.
+
+3. Çocukların Gizliliği
+MasalAmca, çocuklar dahil olmak üzere kimseden kişisel veri toplamaz. Bu nedenle, veri gizliliği açısından uygulama her yaştan kullanıcı için güvenlidir.
+
+4. Bu Gizlilik Politikasındaki Değişiklikler
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik olması durumunda yeni Gizlilik Politikasını bu sayfada yayımlayarak sizi bilgilendireceğiz. Herhangi bir değişiklik olup olmadığını görmek için bu Gizlilik Politikasını periyodik olarak gözden geçirmeniz önerilir. Bu Gizlilik Politikasındaki değişiklikler, bu sayfada yayımlandıkları anda yürürlüğe girer.
+
+5. Bize Ulaşın
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa lütfen bizimle şu adresten iletişime geçin:
+alperenugus@gmail.com
