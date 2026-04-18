@@ -1,7 +1,7 @@
 Privacy Policy for Lullaby: Baby & Bump Tracker
 
-Effective Date: April 18, 2026
-Last Reviewed: April 18, 2026
+Effective Date: April 19, 2026
+Last Reviewed: April 19, 2026
 
 This Privacy Policy explains how Lullaby: Baby & Bump Tracker (the
 "App", "Lullaby", "we", "us", "our") handles your personal information.
@@ -85,7 +85,7 @@ one-time lifetime purchase. Purchases are handled by Apple's In-App
 Purchase system. Apple processes the payment — we never see your card
 number, Apple ID password, or billing address.
 
-Two third-party services are used to manage subscription state:
+One third-party service is used to manage subscription state:
 
   5.1. RevenueCat (entitlement management)
        Provider: RevenueCat, Inc. (USA)
@@ -97,16 +97,9 @@ Two third-party services are used to manage subscription state:
          devices, so the App can unlock Lullaby Plus features.
        Policy: https://www.revenuecat.com/privacy
 
-  5.2. Superwall (paywall presentation and experimentation)
-       Provider: Superwall Labs, Inc. (USA)
-       What it receives: an anonymous Superwall device identifier,
-         paywall impression events, and whether you completed a
-         purchase flow. It does not receive any of the baby/pregnancy
-         data in sections 2–4.
-       Why: to render paywall screens, run A/B tests on paywall
-         copy, and avoid showing paywalls to users who already hold
-         a subscription.
-       Policy: https://superwall.com/privacy
+No other third-party SDK is used to present, track, or experiment on
+the paywall. Paywall UI is a native SwiftUI view inside the App that
+reads pricing information from RevenueCat directly.
 
 Historical note: users who purchased the App at any point before
 version 2.0 (when the App was sold for a one-time fee) have been
@@ -202,7 +195,7 @@ within 30 days.
 
 Data stored on your device is protected by iOS's device-level
 encryption. Data stored in iCloud is encrypted in transit and at
-rest by Apple. RevenueCat and Superwall communicate over HTTPS with
+rest by Apple. RevenueCat communicates over HTTPS with
 TLS 1.2 or higher. We do not operate any servers, so the security of
 your data ultimately depends on the security of your Apple ID and
 your devices.
@@ -214,18 +207,17 @@ Because we do not store your data, we do not retain it. Data lives on
 your device (and, if enabled, in your iCloud account) until you
 delete it. RevenueCat retains anonymous subscription records for as
 long as your subscription is active, plus Apple's receipt-validation
-window after cancellation. Superwall retains anonymous paywall
-impression records per its own retention policy.
+window after cancellation.
 
 
 12. International transfers
 
-RevenueCat and Superwall operate servers in the United States.
-If you are located in the European Economic Area, the United Kingdom,
-or another region with data-transfer rules, your anonymous
-subscription identifier and purchase events may be transferred to
-the United States under Standard Contractual Clauses or equivalent
-safeguards provided by those vendors.
+RevenueCat operates servers in the United States. If you are located
+in the European Economic Area, the United Kingdom, or another region
+with data-transfer rules, your anonymous subscription identifier and
+purchase events may be transferred to the United States under
+Standard Contractual Clauses or equivalent safeguards provided by
+the vendor.
 
 
 13. Changes to this policy
