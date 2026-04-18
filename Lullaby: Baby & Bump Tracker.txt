@@ -1,28 +1,252 @@
 Privacy Policy for Lullaby: Baby & Bump Tracker
 
-Effective Date: [March 19, 2026]
+Effective Date: April 18, 2026
+Last Reviewed: April 18, 2026
 
-This Privacy Policy describes how Lullaby: Baby & Bump Tracker ("the App") operates with respect to user data. Your privacy is of paramount importance to us.
+This Privacy Policy explains how Lullaby: Baby & Bump Tracker (the
+"App", "Lullaby", "we", "us", "our") handles your personal information.
+Lullaby is designed to be offline-first and privacy-preserving: the
+data you log stays on your device and — if you choose — inside your own
+iCloud account. This document exists to describe, honestly and in
+plain English, exactly what data is handled, why, and by whom.
 
-1. No Collection of Personal Data
-Lullaby: Baby & Bump Tracker is designed with your privacy as its utmost priority. We want to be absolutely clear: Lullaby: Baby & Bump Tracker does not collect, store, transmit, or share any personal data or any other information from its users.
 
-This means:
-*   We do not ask for your name, email address, location, or any other identifying information.
-*   We do not track your usage patterns within the app.
-*   We do not use analytics tools that collect personal data.
-*   We do not access your device's contacts, photos, microphone, camera, or any other sensitive data.
-*   There are no user accounts, and no data is stored on our servers.
+1. Who is responsible for your data
 
-2. No Third-Party Access
-Since Lullaby: Baby & Bump Tracker does not collect any data, there is no data for us to share with third parties. We do not integrate with any third-party services (e.g., analytics providers, advertising networks) that would collect data from you.
+The developer listed as the "Seller" on the App Store page is the data
+controller for the purposes of this policy. For any question about
+your data, about this policy, or to exercise the rights described in
+section 9, you can contact us at:
 
-3. Children's Privacy
-Lullaby: Baby & Bump Tracker does not collect any personal data from anyone, including children. As such, the app is safe for users of all ages from a data privacy perspective.
+  alperenugus@gmail.com
 
-4. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-5. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-alperenugus@gmail.com
+2. Data stored on your device
+
+The App is built around Apple's SwiftData framework. Every entry you
+create inside the App is written to private storage on your own
+device, not to any server operated by us. This includes:
+
+  - Baby profiles (name or nickname, date of birth, gender, blood
+    type, allergies, photo)
+  - Pregnancy information (nickname, due date, trimester notes, gender
+    if set)
+  - Feeding logs (breastfeeding sessions, bottles, solid foods,
+    allergic-reaction flags)
+  - Sleep logs (start/end times, quality, location, soothing method)
+  - Diaper and potty logs (type, color, texture, rash flag, notes)
+  - Medication doses, temperature readings, vaccine records
+  - Growth measurements (weight, length, head circumference)
+  - Developmental milestones (AAP-style checklists)
+  - Appointments and reminders
+  - Photos you add from the camera or photo library
+
+None of the information above is transmitted to our servers because
+we do not operate any servers for Lullaby.
+
+
+3. iCloud sync (optional, controlled by you)
+
+If you are signed into iCloud on your device, Lullaby uses Apple's
+CloudKit framework to sync the data in section 2 across your own
+devices, privately. This means:
+
+  - Data is stored in your personal iCloud account, in the private
+    database associated with your Apple ID.
+  - We do not have access to the contents of your iCloud database.
+  - Apple's own privacy policy applies to this processing:
+    https://www.apple.com/legal/privacy/
+
+If you do not want iCloud sync, sign out of iCloud, turn off iCloud
+for the Lullaby app, or use Airplane Mode. The App functions fully
+offline without iCloud.
+
+
+4. Co-parent sharing (optional)
+
+The App includes a "Co-parent sharing" feature that uses Apple's
+CKShare technology to let another parent see the same baby timeline
+as you. When you invite a co-parent:
+
+  - The invitation is transmitted via Apple's iCloud sharing system.
+  - The shared data lives in your private iCloud database; Apple
+    grants the co-parent access via their Apple ID.
+  - We do not see, store, or process the invitation or the shared
+    data at any point.
+
+You can stop sharing at any time from the in-app Co-parent Sharing
+screen, or from iCloud settings on any of your Apple devices.
+
+
+5. Subscriptions, in-app purchases, and grandfathering
+
+Lullaby offers an optional subscription ("Lullaby Plus") and a
+one-time lifetime purchase. Purchases are handled by Apple's In-App
+Purchase system. Apple processes the payment — we never see your card
+number, Apple ID password, or billing address.
+
+Two third-party services are used to manage subscription state:
+
+  5.1. RevenueCat (entitlement management)
+       Provider: RevenueCat, Inc. (USA)
+       What it receives: an anonymous RevenueCat App User ID, your
+         App Store purchase receipts, and the product identifier you
+         purchased. It does not receive any of the baby/pregnancy
+         data in sections 2–4.
+       Why: to verify that your subscription is active across your
+         devices, so the App can unlock Lullaby Plus features.
+       Policy: https://www.revenuecat.com/privacy
+
+  5.2. Superwall (paywall presentation and experimentation)
+       Provider: Superwall Labs, Inc. (USA)
+       What it receives: an anonymous Superwall device identifier,
+         paywall impression events, and whether you completed a
+         purchase flow. It does not receive any of the baby/pregnancy
+         data in sections 2–4.
+       Why: to render paywall screens, run A/B tests on paywall
+         copy, and avoid showing paywalls to users who already hold
+         a subscription.
+       Policy: https://superwall.com/privacy
+
+Historical note: users who purchased the App at any point before
+version 1.2 (when the App was sold for a one-time fee) have been
+granted lifetime Lullaby Plus at no cost. This grant was executed
+manually by the developer inside RevenueCat, using the original App
+Store purchase receipt on each user's device. The underlying receipt
+is part of Apple's In-App Purchase system and is handled by Apple.
+
+
+6. Device permissions
+
+The App will only request the permissions it needs. You can revoke
+any of these at any time from the iOS Settings app.
+
+  6.1. Notifications
+       Used to remind you about upcoming feeds, nap windows, expiring
+       medication doses, fever alerts, and appointments. If you deny
+       notifications, the rest of the App works normally.
+
+  6.2. Camera and Photo Library
+       Used to let you attach a photo to a baby profile or to a
+       memory in the in-app Gallery. Images are stored in local
+       SwiftData storage (and your iCloud database if sync is on).
+       We do not upload photos to any server.
+
+  6.3. Siri / App Intents
+       Used for voice shortcuts such as "Log a wet diaper in Lullaby".
+       This uses Apple's on-device App Intents framework. Siri
+       queries are processed by Apple, not by us, and we do not
+       receive or store any audio.
+
+The App does NOT request: location, contacts, microphone, Bluetooth,
+HealthKit, Motion & Fitness, Media Library, or advertising
+identifiers.
+
+
+7. What we do not do
+
+We want to be explicit about practices we do not engage in:
+
+  - No third-party analytics SDKs (no Firebase Analytics, no
+    Mixpanel, no Amplitude, no Segment, no Meta/Facebook SDK, no
+    TikTok SDK, no Google Analytics).
+  - No advertising networks. No ads inside the App.
+  - No behavioral profiling. We do not build a profile of you.
+  - No data sold to third parties, ever.
+  - No email collection. We do not have an email list.
+  - No account creation. There is no Lullaby account; the App is
+    tied to your Apple ID via iCloud only.
+  - No App Tracking Transparency prompt. The App does not ask to
+    track you across other apps because it does not track you.
+
+
+8. Children's privacy
+
+Lullaby contains health and developmental information about infants
+and young children, but it is operated by the parent or legal
+guardian on that adult's own device and under their own Apple ID.
+The App does not create accounts for children, does not request data
+from children directly, and does not serve advertising to anyone.
+
+If you are under the age of 13 (or the equivalent age in your
+jurisdiction) and have used the App on your own device, please ask a
+parent or legal guardian to contact us and we will delete any
+relevant data on request. (Because we do not operate a server, most
+deletion happens by removing the App from the device.)
+
+
+9. Your rights (GDPR, CCPA, KVKK, and others)
+
+Depending on your jurisdiction, you may have rights to access,
+correct, delete, restrict, or object to the processing of your
+personal data. Since we do not operate a server:
+
+  - To access your data: open the App. Everything is there.
+  - To export your data: use the in-app PDF report export (Settings
+    → Export Report) or Apple's standard Data & Privacy export
+    from your Apple ID account.
+  - To correct your data: edit it inside the App.
+  - To delete your data: delete entries in the App, remove the App
+    from your device, or delete the App's data from iCloud via
+    iOS Settings → your Apple ID → iCloud → Manage Account Storage.
+  - To opt out of iCloud sync: turn off iCloud for the App in iOS
+    Settings.
+  - For subscription-related data: open Settings → Lullaby Plus →
+    Manage Subscription, or write to us.
+
+For anything else, email alperenugus@gmail.com and we will respond
+within 30 days.
+
+
+10. Security
+
+Data stored on your device is protected by iOS's device-level
+encryption. Data stored in iCloud is encrypted in transit and at
+rest by Apple. RevenueCat and Superwall communicate over HTTPS with
+TLS 1.2 or higher. We do not operate any servers, so the security of
+your data ultimately depends on the security of your Apple ID and
+your devices.
+
+
+11. Data retention
+
+Because we do not store your data, we do not retain it. Data lives on
+your device (and, if enabled, in your iCloud account) until you
+delete it. RevenueCat retains anonymous subscription records for as
+long as your subscription is active, plus Apple's receipt-validation
+window after cancellation. Superwall retains anonymous paywall
+impression records per its own retention policy.
+
+
+12. International transfers
+
+RevenueCat and Superwall operate servers in the United States.
+If you are located in the European Economic Area, the United Kingdom,
+or another region with data-transfer rules, your anonymous
+subscription identifier and purchase events may be transferred to
+the United States under Standard Contractual Clauses or equivalent
+safeguards provided by those vendors.
+
+
+13. Changes to this policy
+
+We may update this policy from time to time. Meaningful changes will
+be reflected by bumping the "Effective Date" at the top. Cosmetic
+changes (typos, link fixes) may be made without a date bump. The
+canonical, up-to-date text always lives at the URL in section 14.
+
+
+14. Canonical location of this policy
+
+The current version of this Privacy Policy is published at:
+https://github.com/alperenugus/PrivacyPolicies/blob/main/Lullaby%3A%20Baby%20%26%20Bump%20Tracker.txt
+
+Raw text version (for in-app links that prefer a plain-text URL):
+https://raw.githubusercontent.com/alperenugus/PrivacyPolicies/main/Lullaby%3A%20Baby%20%26%20Bump%20Tracker.txt
+
+
+15. Contact
+
+Questions, requests, or anything else:
+
+  alperenugus@gmail.com
