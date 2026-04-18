@@ -109,7 +109,7 @@ Two third-party services are used to manage subscription state:
        Policy: https://superwall.com/privacy
 
 Historical note: users who purchased the App at any point before
-version 1.2 (when the App was sold for a one-time fee) have been
+version 2.0 (when the App was sold for a one-time fee) have been
 granted lifetime Lullaby Plus at no cost. This grant was executed
 manually by the developer inside RevenueCat, using the original App
 Store purchase receipt on each user's device. The underlying receipt
