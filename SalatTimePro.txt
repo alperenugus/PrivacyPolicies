@@ -2,7 +2,7 @@ Privacy Policy for Salat Time Pro
 
 Effective Date: June 24, 2026
 
-This Privacy Policy describes how Salat Time Pro ("the App") handles information. Your privacy is our highest priority. In short: the App collects nothing, sends nothing off your device, and has no servers, no user accounts, and no third-party tracking.
+This Privacy Policy describes how Salat Time Pro ("the App") handles information. Your privacy is our highest priority. In short: the App collects nothing about you, sends nothing about you to us, and has no servers, no user accounts, and no third-party tracking. The only data that ever leaves your device is when iOS looks up your city name from your coordinates (see Section 2).
 
 1. No Collection of Personal Data
 Salat Time Pro does not collect, transmit, share, or store on any server your personal data or any other information.
@@ -17,7 +17,8 @@ This means:
 2. Location
 Salat Time Pro uses your device's location to calculate accurate prayer times and the Qibla (the direction of the Kaaba) for where you are. Location is optional and is handled entirely on your device:
 
-*   Your location is never sent to us or to anyone else, and is never stored on any server. It is used only on your device to compute prayer times and the Qibla, and is cached locally so the App can show your times instantly.
+*   Your location is never sent to us, and we run no servers that could receive it. It is used on your device to compute prayer times and the Qibla, and is cached locally so the App can show your times instantly.
+*   To display the name of your city, the App may send your coordinates to Apple's geocoding service as part of normal iOS functionality. That processing is governed by Apple's Privacy Policy (https://www.apple.com/legal/privacy/). We never receive or keep the result beyond caching the city name on your device.
 *   The App works fully without location permission. You can instead pick your city manually, and prayer times are calculated for that city completely offline.
 *   You may grant location access "While Using the App" or, optionally, "Always." If you choose "Always," the App may check your location in the background — including while the App is closed, or after iOS relaunches it in the background when you move a significant distance — so that your prayer times, reminders, and Home Screen, Lock Screen, and Apple Watch widgets stay accurate when you travel to a new city. This background use is entirely optional; "While Using the App" and manual city selection both work without it.
 *   You can change or revoke location permission at any time in the iOS Settings app.
@@ -26,7 +27,7 @@ Salat Time Pro uses your device's location to calculate accurate prayer times an
 Prayer-time reminders and the optional daily inspiration are delivered as local notifications scheduled on your device. They are not sent through any push server, and scheduling them does not transmit any information off your device. To keep upcoming reminders accurate between app launches, iOS may briefly wake the App in the background to recalculate them from your last known location; this processing happens only on your device. You choose which reminders are enabled in the App's settings, and you can turn notifications off at any time in the iOS Settings app.
 
 4. On-Device Storage
-Anything you create or choose — such as bookmarks, the tasbih counter, prayer logs, your selected city, and your preferences — is stored only on your device. Some of it is shared with the App's own widgets, Live Activity, and Apple Watch app through a private app group on your devices. None of it is ever sent to us or to any third party.
+Anything you create or choose — such as bookmarks, the tasbih counter, prayer logs, your selected city, and your preferences — is stored only on your device. Some of it is shared with the App's own widgets and Live Activity through a private app group on your device, and your iPhone sends your current location to your paired Apple Watch over Apple's encrypted device-to-device connection (WatchConnectivity) so the watch's prayer times stay correct as you travel. None of this is ever sent to us or to any third party, and none of it leaves your own devices.
 
 5. No Third-Party Access
 Salat Time Pro does not integrate with any third-party services (such as analytics providers or advertising networks) that would collect data from you. Because the App does not collect any data, there is no data for us to share with anyone.
