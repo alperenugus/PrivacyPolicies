@@ -1,4 +1,5 @@
 Privacy Policy for Salat Time Pro
+(Türkçe metin için aşağı kaydırın · النص العربي أدناه)
 
 Effective Date: June 24, 2026
 
@@ -40,4 +41,98 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 8. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
+alperenugus@gmail.com
+
+
+============================================================
+GİZLİLİK POLİTİKASI — SALAT TIME PRO (TÜRKÇE)
+============================================================
+
+Yürürlük Tarihi: 24 Haziran 2026
+
+Bu Gizlilik Politikası, Salat Time Pro'nun ("Uygulama") bilgileri nasıl ele aldığını açıklar. Gizliliğiniz en yüksek önceliğimizdir. Kısacası: Uygulama hakkınızda hiçbir şey toplamaz, bize hakkınızda hiçbir şey göndermez; sunucumuz, kullanıcı hesabımız ve üçüncü taraf takibimiz yoktur. Cihazınızdan ayrılan tek veri, iOS'un koordinatlarınızdan şehir adınızı bulmasıdır (bkz. Bölüm 2).
+
+1. Kişisel Veri Toplanmaz
+Salat Time Pro kişisel verilerinizi veya başka herhangi bir bilgiyi toplamaz, iletmez, paylaşmaz veya herhangi bir sunucuda saklamaz.
+
+Bu şu anlama gelir:
+*   Adınızı, e-posta adresinizi veya başka herhangi bir kimlik bilgisini istemeyiz.
+*   Uygulama içindeki kullanım alışkanlıklarınızı takip etmeyiz.
+*   Analitik, reklam veya çökme raporlama araçları kullanmayız.
+*   Kişilerinize, fotoğraflarınıza, mikrofonunuza veya kameranıza erişmeyiz.
+*   Kullanıcı hesabı yoktur ve hiçbir bilgi sunucularımıza yüklenmez veya sunucularımızda saklanmaz.
+
+2. Konum
+Salat Time Pro, bulunduğunuz yer için doğru namaz vakitlerini ve kıbleyi (Kâbe yönünü) hesaplamak amacıyla cihazınızın konumunu kullanır. Konum isteğe bağlıdır ve tamamen cihazınızda işlenir:
+
+*   Konumunuz bize asla gönderilmez; onu alabilecek hiçbir sunucumuz yoktur. Konum, namaz vakitlerini ve kıbleyi hesaplamak için cihazınızda kullanılır ve Uygulamanın vakitlerinizi anında gösterebilmesi için yerel olarak önbelleğe alınır.
+*   Şehrinizin adını görüntülemek için Uygulama, normal iOS işlevselliğinin bir parçası olarak koordinatlarınızı Apple'ın coğrafi kodlama servisine gönderebilir. Bu işlem Apple'ın Gizlilik Politikasına (https://www.apple.com/legal/privacy/) tabidir. Sonucu asla almayız; yalnızca şehir adı cihazınızda önbelleğe alınır.
+*   Uygulama konum izni olmadan da tam olarak çalışır. Bunun yerine şehrinizi elle seçebilirsiniz; namaz vakitleri o şehir için tamamen çevrimdışı hesaplanır.
+*   Konum erişimini "Uygulamayı Kullanırken" veya isteğe bağlı olarak "Her Zaman" olarak verebilirsiniz. "Her Zaman"ı seçerseniz Uygulama, yeni bir şehre seyahat ettiğinizde namaz vakitlerinizin, hatırlatmalarınızın ve Ana Ekran, Kilit Ekranı ve Apple Watch widget'larınızın doğru kalması için konumunuzu arka planda — Uygulama kapalıyken veya önemli bir mesafe hareket ettiğinizde iOS Uygulamayı arka planda yeniden başlattığında dahil — kontrol edebilir. Bu arka plan kullanımı tamamen isteğe bağlıdır; "Uygulamayı Kullanırken" izni ve elle şehir seçimi bunlarsız da çalışır.
+*   Konum iznini istediğiniz zaman iOS Ayarlar uygulamasından değiştirebilir veya iptal edebilirsiniz.
+
+3. Bildirimler
+Namaz vakti hatırlatmaları ve isteğe bağlı günlük ilham, cihazınızda zamanlanan yerel bildirimler olarak iletilir. Herhangi bir push sunucusundan geçmezler ve zamanlanmaları cihazınızdan hiçbir bilgi iletmez. Yaklaşan hatırlatmaları uygulama açılışları arasında doğru tutmak için iOS, son bilinen konumunuzdan yeniden hesaplamak üzere Uygulamayı arka planda kısaca uyandırabilir; bu işlem yalnızca cihazınızda gerçekleşir. Hangi hatırlatmaların etkin olduğunu Uygulama ayarlarından seçersiniz ve bildirimleri istediğiniz zaman iOS Ayarlar uygulamasından kapatabilirsiniz.
+
+4. Cihaz Üzerinde Depolama
+Oluşturduğunuz veya seçtiğiniz her şey — yer işaretleri, zikirmatik sayacı, namaz kayıtları, seçtiğiniz şehir ve tercihleriniz gibi — yalnızca cihazınızda saklanır. Bunların bir kısmı, cihazınızdaki özel bir uygulama grubu aracılığıyla Uygulamanın kendi widget'ları ve Canlı Aktivitesi ile paylaşılır; iPhone'unuz, seyahat ederken saatinizin namaz vakitlerinin doğru kalması için mevcut konumunuzu Apple'ın şifreli cihazdan cihaza bağlantısı (WatchConnectivity) üzerinden eşleştirilmiş Apple Watch'unuza gönderir. Bunların hiçbiri bize veya herhangi bir üçüncü tarafa gönderilmez ve hiçbiri kendi cihazlarınızdan ayrılmaz.
+
+5. Üçüncü Taraf Erişimi Yok
+Salat Time Pro, sizden veri toplayacak herhangi bir üçüncü taraf servisiyle (analitik sağlayıcıları veya reklam ağları gibi) entegre değildir. Uygulama hiçbir veri toplamadığı için paylaşabileceğimiz bir veri de yoktur.
+
+6. Çocukların Gizliliği
+Salat Time Pro, çocuklar dahil hiç kimseden kişisel veri toplamaz. Uygulama, veri gizliliği açısından her yaştan kullanıcı için güvenlidir.
+
+7. Bu Gizlilik Politikasındaki Değişiklikler
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikleri, yeni Gizlilik Politikasını bu sayfada yayımlayarak bildiririz. Bu Gizlilik Politikasını düzenli olarak gözden geçirmeniz önerilir. Değişiklikler bu sayfada yayımlandığında yürürlüğe girer.
+
+8. Bize Ulaşın
+Bu Gizlilik Politikası hakkında sorularınız varsa lütfen bize ulaşın:
+alperenugus@gmail.com
+
+
+============================================================
+سياسة الخصوصية — SALAT TIME PRO (العربية)
+============================================================
+
+تاريخ السريان: 24 يونيو 2026
+
+توضح سياسة الخصوصية هذه كيف يتعامل تطبيق Salat Time Pro ("التطبيق") مع المعلومات. خصوصيتك أولويتنا القصوى. باختصار: لا يجمع التطبيق أي شيء عنك، ولا يرسل أي شيء عنك إلينا، ولا توجد لدينا خوادم ولا حسابات مستخدمين ولا تتبّع من أطراف ثالثة. البيانات الوحيدة التي تغادر جهازك هي عندما يبحث iOS عن اسم مدينتك من إحداثياتك (انظر القسم 2).
+
+1. لا جمع للبيانات الشخصية
+لا يجمع Salat Time Pro بياناتك الشخصية أو أي معلومات أخرى، ولا ينقلها ولا يشاركها ولا يخزنها على أي خادم.
+
+وهذا يعني:
+*   لا نطلب اسمك أو بريدك الإلكتروني أو أي معلومات تعريفية أخرى.
+*   لا نتتبع أنماط استخدامك داخل التطبيق.
+*   لا نستخدم أدوات تحليلات أو إعلانات أو تقارير أعطال.
+*   لا نصل إلى جهات اتصالك أو صورك أو الميكروفون أو الكاميرا.
+*   لا توجد حسابات مستخدمين، ولا تُرفع أي معلومات إلى خوادمنا أو تُخزَّن عليها.
+
+2. الموقع
+يستخدم Salat Time Pro موقع جهازك لحساب مواقيت صلاة دقيقة والقبلة (اتجاه الكعبة) لمكانك. الموقع اختياري ويُعالَج بالكامل على جهازك:
+
+*   لا يُرسَل موقعك إلينا أبدًا، ولا نشغّل أي خوادم يمكنها استقباله. يُستخدَم على جهازك لحساب مواقيت الصلاة والقبلة، ويُخزَّن مؤقتًا محليًا ليعرض التطبيق مواقيتك فورًا.
+*   لعرض اسم مدينتك، قد يرسل التطبيق إحداثياتك إلى خدمة الترميز الجغرافي من Apple كجزء من وظائف iOS المعتادة. تخضع هذه المعالجة لسياسة خصوصية Apple (https://www.apple.com/legal/privacy/). لا نستقبل النتيجة أبدًا ولا نحتفظ بها سوى تخزين اسم المدينة مؤقتًا على جهازك.
+*   يعمل التطبيق بالكامل دون إذن الموقع. يمكنك بدلًا من ذلك اختيار مدينتك يدويًا، وتُحسَب مواقيت الصلاة لتلك المدينة دون اتصال بالإنترنت تمامًا.
+*   يمكنك منح إذن الموقع "أثناء استخدام التطبيق" أو، اختياريًا، "دائمًا". إذا اخترت "دائمًا"، فقد يتحقق التطبيق من موقعك في الخلفية — بما في ذلك أثناء إغلاق التطبيق، أو بعد أن يعيد iOS تشغيله في الخلفية عند تنقلك مسافة كبيرة — لتبقى مواقيت صلاتك وتذكيراتك وعناصر واجهة الشاشة الرئيسية وشاشة القفل وApple Watch دقيقة عند سفرك إلى مدينة جديدة. هذا الاستخدام في الخلفية اختياري تمامًا؛ ويعمل كلٌّ من "أثناء استخدام التطبيق" والاختيار اليدوي للمدينة بدونه.
+*   يمكنك تغيير إذن الموقع أو إلغاؤه في أي وقت من تطبيق إعدادات iOS.
+
+3. الإشعارات
+تُسلَّم تذكيرات مواقيت الصلاة و"إلهام اليوم" الاختياري كإشعارات محلية مجدولة على جهازك. لا تمر عبر أي خادم إشعارات، ولا تنقل جدولتها أي معلومات خارج جهازك. وللحفاظ على دقة التذكيرات القادمة بين مرات فتح التطبيق، قد يوقظ iOS التطبيق لفترة وجيزة في الخلفية لإعادة حسابها من آخر موقع معروف لك؛ تجري هذه المعالجة على جهازك فقط. أنت تختار التذكيرات المفعَّلة من إعدادات التطبيق، ويمكنك إيقاف الإشعارات في أي وقت من تطبيق إعدادات iOS.
+
+4. التخزين على الجهاز
+كل ما تنشئه أو تختاره — مثل الإشارات المرجعية وعداد التسبيح وسجلات الصلاة ومدينتك المختارة وتفضيلاتك — يُخزَّن على جهازك فقط. يُشارَك بعضه مع عناصر واجهة التطبيق ونشاطه المباشر عبر مجموعة تطبيقات خاصة على جهازك، ويرسل iPhone موقعك الحالي إلى Apple Watch المقترنة عبر اتصال Apple المشفَّر من جهاز إلى جهاز (WatchConnectivity) لتبقى مواقيت الصلاة على الساعة صحيحة أثناء تنقلك. لا يُرسَل أي من ذلك إلينا أو إلى أي طرف ثالث، ولا يغادر أي منه أجهزتك.
+
+5. لا وصول لأطراف ثالثة
+لا يتكامل Salat Time Pro مع أي خدمات من أطراف ثالثة (مثل مزودي التحليلات أو شبكات الإعلانات) قد تجمع بيانات منك. ولأن التطبيق لا يجمع أي بيانات، فلا توجد بيانات نشاركها مع أي جهة.
+
+6. خصوصية الأطفال
+لا يجمع Salat Time Pro بيانات شخصية من أي شخص، بما في ذلك الأطفال. التطبيق آمن لمستخدمي جميع الأعمار من منظور خصوصية البيانات.
+
+7. التغييرات على سياسة الخصوصية هذه
+قد نحدِّث سياسة الخصوصية هذه من وقت لآخر. سنعلمك بأي تغييرات عبر نشر سياسة الخصوصية الجديدة على هذه الصفحة. ننصحك بمراجعة هذه السياسة دوريًا. تسري التغييرات فور نشرها على هذه الصفحة.
+
+8. تواصل معنا
+إذا كانت لديك أي أسئلة حول سياسة الخصوصية هذه، فيرجى التواصل معنا على:
 alperenugus@gmail.com
